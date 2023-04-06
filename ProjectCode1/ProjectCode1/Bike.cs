@@ -9,10 +9,10 @@ namespace ProjectCode1
     internal class Bike : vehicle
     {
         private string bike;
-        public Bike(string name, int price, string color) : base(name, price)
+        public Bike(string name, int price, string amount) : base(name, price)
         {
-            this.bike = color;
+            this.bike = amount;
         }
-        public string getSize() { return bike; }
+        public string getAmount() { return bike; }
     }
 }

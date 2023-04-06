@@ -9,15 +9,15 @@ namespace ProjectCode1
     internal class vehicle 
     {
         private string name;
-        private int pirce;
+        private int amount;
 
-        public vehicle(string name, int price)
+        public vehicle(string name, int amount)
         {
             this.name = name;
-            this.pirce = pirce;
+            this.amount = amount;
         }
         public string getName() { return name; }
-        public int getAmount() { return pirce; }
+        public int getAmount() { return amount; }
 
     }
 }

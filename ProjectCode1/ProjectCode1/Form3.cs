@@ -5,7 +5,7 @@ namespace ProjectCode1
     public partial class ShopBike : Form
     {
         public string name;
-        public int price;
+        public int amount;
         public string color;
         public ShopBike()
         {
@@ -35,9 +35,9 @@ namespace ProjectCode1
             {
                 ExcelPackage.LicenseContext = OfficeOpenXml.LicenseContext.Commercial;
                 name = pictureBox9.Text;
-                price = 0;
+                amount = Int32.Parse(this.textBox7.Text);
                 color = combocolor1.Text;
-                Car car = new Car(name, price, color);
+                Car car = new Car(name, amount, color);
                 var message = $"{car.getName()} ราคา {car.getAmount} สี\n {car.getMeat}";
                 using (var package = new ExcelPackage(new FileInfo(@"C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\SoBer.xlsx")))
                 {
@@ -61,9 +61,9 @@ namespace ProjectCode1
             {
                 ExcelPackage.LicenseContext = OfficeOpenXml.LicenseContext.Commercial;
                 name = pictureBox9.Text;
-                price = 0;
+                amount = Int32.Parse(this.textBox8.Text);
                 color = combocolor1.Text;
-                Car car = new Car(name, price, color);
+                Car car = new Car(name, amount, color);
                 var message = $"{car.getName()} ราคา {car.getAmount} สี\n {car.getMeat}";
                 using (var package = new ExcelPackage(new FileInfo(@"C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\SoBer.xlsx")))
                 {

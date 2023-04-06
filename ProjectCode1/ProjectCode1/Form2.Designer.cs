@@ -116,9 +116,9 @@
             this.label11.Font = new System.Drawing.Font("Segoe Script", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label11.Location = new System.Drawing.Point(44, 336);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(71, 44);
+            this.label11.Size = new System.Drawing.Size(173, 44);
             this.label11.TabIndex = 175;
-            this.label11.Text = "ยาน";
+            this.label11.Text = "จักรยานยนต์";
             this.label11.UseMnemonic = false;
             // 
             // pictureBox11

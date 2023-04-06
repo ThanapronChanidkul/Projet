@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Visual Studio 2022\\Vs\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj": {}
+    "C:\\Users\\User\\Downloads\\Projet-main\\Projet-main\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Visual Studio 2022\\Vs\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj": {
+    "C:\\Users\\User\\Downloads\\Projet-main\\Projet-main\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Vs\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Projet-main\\Projet-main\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj",
         "projectName": "ProjectCode1",
-        "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Vs\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Projet-main\\Projet-main\\ProjectCode1\\ProjectCode1\\ProjectCode1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2022\\Vs\\ProjectCode1\\ProjectCode1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Projet-main\\Projet-main\\ProjectCode1\\ProjectCode1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
