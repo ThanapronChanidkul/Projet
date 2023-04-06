@@ -1,0 +1,70 @@
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.ShopCar.resources
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\refint\ProjectCode1.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.pdb
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.ShopBike.resources
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.exe
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.pdb
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ref\ProjectCode1.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Documents\Visual Studio 2022\Vs\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.CopyComplete
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.exe
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.deps.json
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.runtimeconfig.json
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\ProjectCode1.pdb
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.Form1.resources
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.ShopCar.resources
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.ShopBike.resources
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.Properties.Resources.resources
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.AssemblyInfo.cs
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.csproj.CopyComplete
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\refint\ProjectCode1.dll
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.pdb
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ProjectCode1.genruntimeconfig.cache
+C:\Users\User\Downloads\Projet-main\Projet-main\ProjectCode1\ProjectCode1\obj\Debug\net6.0-windows\ref\ProjectCode1.dll
